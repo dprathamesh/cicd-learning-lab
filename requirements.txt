@@ -1,1 +1,2 @@
-pytestflake8
+pytest
+flake8
